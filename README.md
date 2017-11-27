@@ -9,7 +9,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/eendroroy/solr-samples.svg)](https://github.com/eendroroy/solr-samples/pulls)
 [![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/eendroroy/solr-samples.svg)](https://github.com/eendroroy/solr-samples/pulls?q=is%3Apr+is%3Aclosed)
 
-### Description
+## Description
 
 .....
 
