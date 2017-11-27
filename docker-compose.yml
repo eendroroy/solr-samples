@@ -1,0 +1,11 @@
+---
+version: '3'
+services:
+  solr:
+    build: solr
+    ports:
+      - "8983:8983"
+    expose:
+      - "8983"
+    volumes:
+      - './solr/dummy:/opt/solr/server/solr/dummy:rw'
