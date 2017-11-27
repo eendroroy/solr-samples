@@ -1,0 +1,3 @@
+solr/dummy/data/index/*
+!solr/dummy/data/index/.keep
+
