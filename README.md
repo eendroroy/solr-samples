@@ -11,7 +11,12 @@
 
 ## Description
 
-.....
+```
+$ docker-compose build --force-rm --no-cache --pull
+$ docker-compose up -d
+```
+
+Open [http://localhost:8983/solr](http://localhost:8983/solr) in browser.
 
 ## Contributing
 
