@@ -7,5 +7,3 @@ services:
       - "8983:8983"
     expose:
       - "8983"
-    volumes:
-      - './solr/dummy:/opt/solr/server/solr/dummy:rw'
