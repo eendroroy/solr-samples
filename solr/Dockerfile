@@ -1,6 +1,6 @@
 FROM solr:7.1.0-alpine
 
-ENV CORES singleapp_staging singleapp_production singleapp_development
+ENV CORES collection_staging collection_production collection_development
 
 USER root
 
